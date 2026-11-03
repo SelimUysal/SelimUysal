@@ -19,7 +19,7 @@ I'm a Software Engineer interested in building practical, reliable software syst
 
 My work spans full-stack application development, browser extensions, automation, and computer vision projects.
 
-- 🎓 B.Sc. in Software Engineering — Atılım University (2025).
+- 🎓 B.Sc. in Software Engineering.
 - 🤖 Interested in Artificial Intelligence, LLMs, and intelligent agents.
 - 👁️ Exploring computer vision and AI applications for autonomous systems.
 - ⚙️ Focused on software quality, maintainability, and engineering solutions to real-world problems.
